@@ -78,3 +78,29 @@ asset-management/
 - หน้าจอแสดงคำแนะนำของ AI ในคอลัมน์ “คำแนะนำ AI”
 
 
+## ตัวอย่างหน้าจอระบบ
+
+### Dashboard
+
+![Dashboard](screencapture-localhost-3001-dashboard-2026-01-29.png)
+
+### ทะเบียนครุภัณฑ์
+
+![ทะเบียนครุภัณฑ์](screencapture-localhost-3001-assets-2026-01-29.png)
+
+### ตรวจสอบครุภัณฑ์ประจำปี
+
+![ตรวจสอบครุภัณฑ์](screencapture-localhost-3001-annual-inspection-2026-01-29.png)
+
+### ประวัติการตรวจครุภัณฑ์
+
+![หน้าจอ Inspection](screencapture-localhost-3001-inspection-2026-01-29.png)
+
+### ประวัติการโยกย้ายครุภัณฑ์
+
+![Transfer History](screencapture-localhost-3001-transfer-history-2026-01-29.png)
+
+### หน้า AI วิเคราะห์ครุภัณฑ์
+
+![AI วิเคราะห์ครุภัณฑ์](screencapture-localhost-3001-ai-analysis-2026-01-29.png)
+
