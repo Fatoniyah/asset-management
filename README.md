@@ -77,30 +77,30 @@ asset-management/
 - Backend จะสร้าง `prompt` + เรียก OpenAI แล้วส่งข้อความวิเคราะห์กลับมา
 - หน้าจอแสดงคำแนะนำของ AI ในคอลัมน์ “คำแนะนำ AI”
 
+---
 
-## ตัวอย่างหน้าจอระบบ
+## ตัวอย่างหน้าจอระบบ (Screenshots)
 
-### Dashboard
+### Dashboard ภาพรวมระบบ
 
-![Dashboard](screencapture-localhost-3001-dashboard-2026-01-29.png)
+![Dashboard](screencapture-localhost-3001-dashboard-2026-01-29-21_39_20.png)
 
-### ทะเบียนครุภัณฑ์
+### ทะเบียนครุภัณฑ์ (Assets)
 
-![ทะเบียนครุภัณฑ์](screencapture-localhost-3001-assets-2026-01-29.png)
+![ทะเบียนครุภัณฑ์](screencapture-localhost-3001-assets-2026-01-29-21_39_44.png)
 
-### ตรวจสอบครุภัณฑ์ประจำปี
+### รายงานตรวจนับประจำปี (Annual Inspection Report)
 
-![ตรวจสอบครุภัณฑ์](screencapture-localhost-3001-annual-inspection-2026-01-29.png)
+![Annual Inspection](screencapture-localhost-3001-annual-inspection-report-2026-01-29-21_41_19.png)
 
-### ประวัติการตรวจครุภัณฑ์
+### บันทึกการตรวจครุภัณฑ์ (Inspection Records)
 
-![หน้าจอ Inspection](screencapture-localhost-3001-inspection-2026-01-29.png)
+![Inspection](screencapture-localhost-3001-inspection-2026-01-29-21_41_35.png)
 
-### ประวัติการโยกย้ายครุภัณฑ์
+### ประวัติการโยกย้ายครุภัณฑ์ (Transfer History)
 
-![Transfer History](screencapture-localhost-3001-transfer-history-2026-01-29.png)
+![Transfer History](screencapture-localhost-3001-transfer-history-2026-01-29-21_40_34.png)
 
 ### หน้า AI วิเคราะห์ครุภัณฑ์
 
-![AI วิเคราะห์ครุภัณฑ์](screencapture-localhost-3001-ai-analysis-2026-01-29.png)
-
+![AI วิเคราะห์ครุภัณฑ์](screencapture-localhost-3001-ai-analysis-2026-01-29-21_41_53.png)
